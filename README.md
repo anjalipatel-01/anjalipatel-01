@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🌱I'm currently learning DSA in C++ building a Mern Stack project<br>🤝I’m looking to collaborate on Web development projects.<br>⚡ Fun fact: I blend tech with creativity
+🌱I'm currently contributing in GSSOC'25<br>🤝I’m looking to collaborate on Web development projects.<br>⚡ Fun fact: I blend tech with creativity
 
 
 ## 🌐 Socials:
