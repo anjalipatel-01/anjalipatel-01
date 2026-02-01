@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anjali Patel  
 
 ### 💫 About Me
-- 🌱 Currently contributing to **GSSOC'25**  
+- 🌱 Contributed to **GSSOC'25**  
 - 🤝 Looking to collaborate on **Web Development & Open Source Projects**  
 - 💻 Passionate about blending **Tech + Creativity**  
 - 🎯 Goal: Becoming a **skilled full-stack developer** 
@@ -30,7 +30,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
