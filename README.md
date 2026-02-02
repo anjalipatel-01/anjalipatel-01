@@ -4,13 +4,12 @@
 - 🌱 Contributed to **GSSOC'25**  
 - 🤝 Looking to collaborate on **Web Development & Open Source Projects**  
 - 💻 Passionate about blending **Tech + Creativity**  
-- 🎯 Goal: Becoming a **skilled full-stack developer** 
+- 🎯 Goal: Becoming a **skilled Full-Stack Developer** 
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-patel2004) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjalipatel6607@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-patel2004)  
 
 ---
 
