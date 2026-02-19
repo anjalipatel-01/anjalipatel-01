@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Anjali Patel  
 
 ### 💫 About Me
-- 🌱 Contributed to **GSSOC'25**  
-- 🤝 Looking to collaborate on **Web Development & Open Source Projects**  
-- 💻 Passionate about blending **Tech + Creativity**  
-- 🎯 Goal: Becoming a **skilled Full-Stack Developer** 
+-  Contributed to **GSSOC'25**  
+-  Looking to collaborate on **Web Development & Open Source Projects**  
+-  Passionate about blending **Tech + Creativity**  
+-  Goal: Becoming a **skilled Full-Stack Developer** 
 
 ---
 
@@ -33,8 +33,9 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anjalipatel-01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&hide=stars,prs,issues) 
+## 📊 GitHub Total Contributions
+![](https://github-readme-stats.vercel.app/api?username=anjalipatel-01&theme=dark&hide_border=false&count_private=true&include_all_commits=true&hide=stars,issues,prs,rank,repo,followers&custom_title=Total%20Contributions)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anjalipatel-01&icon=0&color=0)](https://visitcount.itsvg.in)
