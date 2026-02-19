@@ -33,9 +33,8 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
-## 📊 GitHub Total Contributions
-![](https://github-readme-stats.vercel.app/api?username=anjalipatel-01&theme=dark&hide_border=false&count_private=true&include_all_commits=true&hide=stars,issues,prs,rank,repo,followers&custom_title=Total%20Contributions)
-
+## 📊 Total Contributions
+![Total Contributions](https://komarev.com/ghpvc/?username=anjalipatel-01&label=Total%20Contributions&color=blue&style=for-the-badge)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anjalipatel-01&icon=0&color=0)](https://visitcount.itsvg.in)
