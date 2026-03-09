@@ -7,6 +7,9 @@
 -  Goal: Becoming a **skilled Full-Stack Developer** 
 
 ---
+🌐 **Portfolio:**  
+🔗[anjalicodes.in ](https://anjalicodes.in/) 
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-patel2004)  
@@ -44,11 +47,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anjalipatel-01&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-
-## 🎯 Currently
-- 🔭 Working on: **Contributing in GSSOC'25**  
-- 🌱 Learning: **Advanced DSA**
-- 👯 Open to collaborate on: **Full-stack Projects**  
 
 ---
 ##
